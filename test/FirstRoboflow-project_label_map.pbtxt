@@ -1,0 +1,5 @@
+item {
+    name: "speed_breaker_alert",
+    id: 1,
+    display_name: "speed_breaker_alert"
+}
